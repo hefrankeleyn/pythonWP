@@ -1,0 +1,5 @@
+In Python you can,create list
+In python you can,create array
+In python you can,create dectir
+In python you can,create read file
+In python you can,create other things
